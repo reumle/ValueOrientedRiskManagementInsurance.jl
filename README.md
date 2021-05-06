@@ -3,6 +3,7 @@
 [![Build Status](https://travis-ci.org/mkriele/ValueOrientedRiskManagementInsurance.jl.svg?branch=master)](https://travis-ci.org/mkriele/ValueOrientedRiskManagementInsurance.jl)
 
 **The master branch of this package requires Julia 1.0.x.**  
+**The dfv21 branch is updated to julia v1.6 and DataFrames v1.0** and passes all tests.
 
 
 The package provides example calculations for the of the book
